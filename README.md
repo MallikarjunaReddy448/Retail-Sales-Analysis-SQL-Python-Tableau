@@ -16,7 +16,7 @@ Tableau: For creating interactive visualizations and dashboards.
 MySQL: For performing data extraction, transformation, and analysis.
 Python: For additional preprocessing and analysis tasks.
 Live Dashboard:
-👉 Explore the Retail Supply Chain Sales Dashboard here
+👉 [Explore the Retail Supply Chain Sales Dashboard here](https://public.tableau.com/app/profile/mallikarjuna.reddy.gurrala/viz/RetailSupplyChainSalesDashboard/CustomerInsightsDashboard)
 
 Use Cases:
 Retailers can identify high-performing products and regions.
